@@ -1,1 +1,1 @@
-My first project on Shell basics
+Project on shell basics, I/O redirections and filters
