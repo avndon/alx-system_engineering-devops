@@ -1,1 +1,1 @@
-Project on Shell basics, I/O redirections
+Project on shell basics, I/O redirections and filters
